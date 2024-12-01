@@ -7,7 +7,7 @@ This **Automatic Motor System** is designed to streamline water tank management 
 ## **Images**  
 Here are some snapshots of the system:  
 *(Add your images here, e.g., hardware setup, app interface screenshots)*  
-
+![alt text](https://github.com/Thor8302/Automatic-Motor-System/blob/main/Images/IMG-20240304-WA0006%20(1).jpg)
 
 ---
 
