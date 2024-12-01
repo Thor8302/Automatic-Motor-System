@@ -5,13 +5,18 @@ This **Automatic Motor System** is designed to streamline water tank management 
 ---
 
 ## Images  
-
-
-## **Working Video**  
-Watch the system in action:  
-*(Add a link to the video here, e.g., YouTube or Google Drive link)*  
+![IMG-20240304-WA0006 (1)](https://github.com/user-attachments/assets/1a605d7f-1c89-4588-9ed2-ca976a729ed0)
+![IMG20240107225108 (1)](https://github.com/user-attachments/assets/9a9ed092-c6f2-4d6e-9a11-3628b0babd3e)
 
 ---
+
+## **Working Video** 
+https://github.com/user-attachments/assets/130de713-e57e-4ebb-9066-5ad84c2542c7
+
+---
+
+
+
 
 ## **Features**  
 - **Real-Time Water Level Monitoring:** Displays the current water levels for easy tracking.  
