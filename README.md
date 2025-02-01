@@ -5,12 +5,14 @@ This **Automatic Motor System** is designed to streamline water tank management 
 ---
 
 ## Images  
-![IMG-20240304-WA0006 (1)](https://github.com/user-attachments/assets/1a605d7f-1c89-4588-9ed2-ca976a729ed0)
-![IMG20240107225108 (1)](https://github.com/user-attachments/assets/9a9ed092-c6f2-4d6e-9a11-3628b0babd3e)
+![IMG-20240304-WA0006 (1)](https://github.com/user-attachments/assets/e8b8e9b5-ca97-447b-8ea5-74c0527a18bc)
+
+![IMG20240107225108 (1)](https://github.com/user-attachments/assets/10f1daae-b17f-471b-a3f8-1e095dad75f8)
 
 ---
 
 ## **Working Video** 
+
 https://github.com/user-attachments/assets/130de713-e57e-4ebb-9066-5ad84c2542c7
 
 ---
